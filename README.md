@@ -1,6 +1,6 @@
 # Hi, I'm Milad Rezaei Arjmand 👋
 
-M.Sc. Student in Biomedical Engineering (Bioelectric) at Sahand University of Technology.
+M.Sc. Student in Biomedical Engineering (Bioelectric) at Sahand University of Technology, focusing on Medical AI and Biomedical Signal Processing.
 
 ## Research Interests
 
