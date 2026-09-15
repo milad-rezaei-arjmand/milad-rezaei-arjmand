@@ -24,4 +24,4 @@ Python · PyTorch · TensorFlow · OpenCV · Machine Learning · Deep Learning �
 
 ## Contact
 
-LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/milad-rezaei-armand/)
+LinkedIn: (https://www.linkedin.com/in/milad-rezaei-armand/)
