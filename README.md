@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Milad Rezaei Arjmand 👋
 
-<!--
-**milad-rezaei-arjmand/milad-rezaei-arjmand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Student in Biomedical Engineering (Bioelectric) at Sahand University of Technology.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Medical Artificial Intelligence
+- Medical Imaging
+- Biomedical Signal Processing
+- Deep Learning
+- MRI Analysis
+- Multimodal Biomedical Data Fusion
+
+## Projects
+
+- CS-MRI-CORE: Parameter-Efficient Cross-Slice Adaptation of an MRI Foundation Model for Extreme Few-Shot Meningioma Segmentation
+- Biomedical Signal Classification Using Machine Learning and Deep Learning
+- Medical Image Processing: Enhancement, Filtering, Restoration, and Segmentation
+- Wavelet-Based Parkinson’s Disease Classification
+
+## Skills
+
+Python · PyTorch · TensorFlow · OpenCV · Machine Learning · Deep Learning · Medical Image Analysis
+
+## Contact
+
+LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/milad-rezaei-armand/)
